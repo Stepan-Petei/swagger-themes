@@ -97,7 +97,7 @@ app.use('/api-docs/v1', swaggerUi.serve, swaggerUi.setup(swaggerDocument, option
 app.use('/api-docs/v2', swaggerUi.serve, swaggerUi.setup(swaggerDocument, optionsV2)); // Класична тема документації
 ```
 
-## Темы
+## Теми
 > classic
 ![Classic](../screenshots/classic.jpeg)
 > dark
